@@ -1,2 +1,2 @@
 # Presentations test
-1. [Automating presentation creation](https://miltozz.github.io/presentations/automating-presentations)
+1. [Coolest presentaion ever](https://miltozz.github.io/presentations/cool)
